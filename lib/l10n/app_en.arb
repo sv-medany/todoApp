@@ -1,0 +1,15 @@
+{
+  "todoapp": "todoapp",
+  "edit": "Edit Task",
+  "title": "title",
+  "selecttime": "Select time",
+  "language": "Language",
+  "english": "English",
+  "arabic": "Arabic",
+  "theme": "Theme",
+  "light": "Light",
+  "dark": "Dark",
+  "savechanges": "Save Changes",
+  "taskdone": "Task done",
+  "addnewtask": "Add new Task"
+}
